@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Nasa-Api-Astoried-Radar</string>
+    <string name="api_key">api_key</string>
+    <!-- TODO: Remove or change this placeholder text -->
+    <string name="hello_blank_fragment">Hello blank fragment</string>
+    <string name="image_of_the_day_description" />
+    <string name="neo_feed" />
+    <string name="object" />
+</resources>
